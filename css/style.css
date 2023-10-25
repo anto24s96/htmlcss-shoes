@@ -47,6 +47,11 @@ main{
     transform: translate(-50%, -50%);
 }
 
+
+.box img{
+    width: 100%;
+}
+
 .text{
     text-align: center;
     font-size: 55px;
